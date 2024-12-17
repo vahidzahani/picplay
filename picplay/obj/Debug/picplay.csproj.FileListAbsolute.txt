@@ -1,0 +1,10 @@
+C:\Users\ADFT\Desktop\picplay\picplay\obj\Debug\picplay.csproj.AssemblyReference.cache
+C:\Users\ADFT\Desktop\picplay\picplay\obj\Debug\picplay.Form1.resources
+C:\Users\ADFT\Desktop\picplay\picplay\obj\Debug\picplay.Properties.Resources.resources
+C:\Users\ADFT\Desktop\picplay\picplay\obj\Debug\picplay.csproj.GenerateResource.cache
+C:\Users\ADFT\Desktop\picplay\picplay\obj\Debug\picplay.csproj.CoreCompileInputs.cache
+C:\Users\ADFT\Desktop\picplay\picplay\bin\Debug\picplay.exe.config
+C:\Users\ADFT\Desktop\picplay\picplay\bin\Debug\picplay.exe
+C:\Users\ADFT\Desktop\picplay\picplay\bin\Debug\picplay.pdb
+C:\Users\ADFT\Desktop\picplay\picplay\obj\Debug\picplay.exe
+C:\Users\ADFT\Desktop\picplay\picplay\obj\Debug\picplay.pdb
